@@ -1,8 +1,7 @@
 # Proveit---2025
  Prove it is a 24-hour techathon dedicated to students passionate about technical fields, organized by BEST Iași.
  In this year's edition, putting our analytical thinking and technical skills to good use, we had to develop an efficient tuning algorithm for a dynamic system.
-1. Description of the Challenge and Its Context
-The challenge consists of developing control algorithms to maintain a constant speed (CC) and dynamically adjust speed based on the presence of a leading vehicle (ACC).
+1. Description of the Challenge and Its Context: The challenge consists of developing control algorithms to maintain a constant speed (CC) and dynamically adjust speed based on the presence of a leading vehicle (ACC).
 
 2. The tasks were:
  - Determination of the Fixed Part of the CC and ACC System, considering:
